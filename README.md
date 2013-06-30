@@ -3,9 +3,9 @@ basicProcessing
 
 BasicProcessing2.0
 
-Basic Setup for processing and the nanoKontrol 2.0 MIDI with no window frame and undecorated frame. And to it appear in a second screen for performance. 
+Basic Setup for processing with a nanoKontrol 2.0 MIDI UI, no window frame and undecorated frame. And to it appears in a second screen for performance. 
 
-Need proMidi library for processing.
+Needs proMidi library for processing.
 
 ![alt tag](https://raw.github.com/ThomasLengeling/basicProcessing/master/nanoKorg.png)
 
