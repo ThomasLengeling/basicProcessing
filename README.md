@@ -16,4 +16,4 @@ Window appears in the (0,0) of the window, with the key 'a' changes to (100,0) o
 Change this value for it to appear in a second screen with no frame.
 
 Thomas Sanchez Lengeling
-
+http://codigogenerativo.com/en/
